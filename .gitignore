@@ -1,5 +1,12 @@
+# Eclipse project files
 .project
 .classpath
+
+# Maven build target directory
 target/
+
+# Eclipse build output directories
 /classes/
+
+# Additional Eclipse settings directories (if applicable)
 .settings/
