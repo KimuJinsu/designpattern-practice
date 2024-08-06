@@ -8,4 +8,28 @@
 ![ex_screenshot](./resource/1.png)
 ***
 #### buttons/HtmlButton.java: 구상 제품
+![ex_screenshot](./resource/2.png)
+***
+#### buttons/WindowsButton.java: 또 하나의 구상 제품
+![ex_screenshot](./resource/3.png)
+***
+#### factory/Dialog.java: 기초 크리에이터
+![ex_screenshot](./resource/4.png)
+***
+#### factory/HtmlDialog.java: 구상 크리에이터
+![ex_screenshot](./resource/5.png)
+***
+#### factory/WindowsDialog.java: 또 하나의 구상 크리에이터
+![ex_screenshot](./resource/6.png)
+***
+#### Demo.java: 클라이언트 코드
+![ex_screenshot](./resource/7.png)
+***
+#### OutputDemo.png: 실행 결과 (WindowsDialog)
+![ex_screenshot](./resource/8.png)
+
+
+
+
+
 
