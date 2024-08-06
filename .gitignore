@@ -10,3 +10,5 @@ target/
 
 # Additional Eclipse settings directories (if applicable)
 .settings/
+
+.DS_Store
