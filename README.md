@@ -4,4 +4,8 @@
 이제 각 다이얼로그 유형은 적절한 버튼 클래스들을 인스턴스화할 것입니다. 기초 다이얼로그는 공통 인터페이스를 사용하는 제품과 함께 작동하므로 모든 변경 후에도 해당 기초 다이얼로그의 코드가 계속 작동할 것입니다.
 ***
 ## buttons
-### buttons/Button.java: 공통 제품 인터페이스
+#### buttons/Button.java: 공통 제품 인터페이스
+![ex_screenshot](./resource/1번.png)
+***
+#### buttons/HtmlButton.java: 구상 제품
+
