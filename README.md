@@ -5,7 +5,7 @@
 ***
 ## buttons
 #### buttons/Button.java: 공통 제품 인터페이스
-![ex_screenshot](./resource/1번.png)
+![ex_screenshot](./resource/1.png)
 ***
 #### buttons/HtmlButton.java: 구상 제품
 
