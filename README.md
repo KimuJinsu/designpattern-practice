@@ -26,7 +26,7 @@
 ![ex_screenshot](./resource/7.png)
 ***
 #### OutputDemo.png: 실행 결과 (WindowsDialog)
-![ex_screenshot](./resource/8.png)
+![ex_screenshot](./resource/결과.png)
 
 
 
